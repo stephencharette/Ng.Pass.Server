@@ -3,7 +3,7 @@
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
   </PropertyGroup>
   <ItemGroup>
-    <PackageVersion Include="Audit.EntityFramework.Core" Version="30.0.1" />
+    <PackageVersion Include="Audit.EntityFramework.Core" Version="32.0.0" />
     <PackageVersion Include="Azure.Extensions.AspNetCore.Configuration.Secrets" Version="1.4.0" />
     <PackageVersion Include="Azure.Identity" Version="1.14.0" />
     <PackageVersion Include="Dapper" Version="2.1.66" />
