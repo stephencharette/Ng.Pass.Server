@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Audit.EntityFramework.Core" />
+    <PackageReference Include="Azure.Identity" VersionOverride="1.21.0" />
     <PackageReference Include="EFCore.NamingConventions" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design">
       <PrivateAssets>all</PrivateAssets>
